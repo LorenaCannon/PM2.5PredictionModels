@@ -1,4 +1,4 @@
 # PM2.5PredictionModels
-A final project for my Big Data class, this project designs and compares different prediction models for PM2.5 levels.
+A final project for my Big Data class, this project designs and compares different regression prediction models for PM2.5 levels.
 Abstract: 	Using a large dataset from UCI ML Repository of 5 years of hourly PM2.5 concentrations in Beijing with associated time and meteorological measurements, this analysis performed and evaluated a univariate ARIMA time series prediction model and various multivariate regression models in Azure ML Studio to predict future PM2.5 measurements. Results indicate that a multivariate decision forest regression model is the most accurate, with the ARIMA model very close behind in predicting future PM2.5 levels. Discussion regarding the usefulness in collecting and considering different time and associated weather data trends is compared with the different univariate and multivariate models. 
 Keywords: PM2.5, particulate matter 2.5, big data, Azure ML Studio, machine learning, ARIMA model, python
